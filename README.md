@@ -25,7 +25,7 @@ submission/
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
-└── url.txt (opsional, jika deploy ke Streamlit Cloud)
+└── url.txt
 ```
 
 ## 🔧 Setup Environment
